@@ -1,0 +1,4 @@
+<a href="data/info.txt" download="data/info.txt">
+<button class="btn" style:height: 200px; width: 100px; download><i class="fa fa-download"></i> 
+Download</button> 
+<br><br/>
